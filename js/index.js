@@ -31,12 +31,12 @@
 
 
 // สร้าง Array
-// let fruits = ['Apple', 'Banana', 'Carrot'];
+let fruits = ['Apple', 'Banana', 'Carrot'];
 
 // เข้าถึงข้อมูลใน Array ด้วยเลข Index
-// console.log('- เข้าถึงข้อมูล - ' + fruits)
-// console.log('First fruit = ' + fruits[0]);
-// console.log('Second fruit = ' + fruits[1]);
+console.log('- เข้าถึงข้อมูล - ' + fruits)
+console.log('First fruit = ' + fruits[0]);
+console.log('Second fruit = ' + fruits[1]);
 
 // แก้ไขข้อมูลใน Array
 // fruits[1] = 'Watermelon';
@@ -220,5 +220,5 @@
 ///////////////////////////////////////////////////////////
 
 
-
+// prompt("What is your name ?");
 
